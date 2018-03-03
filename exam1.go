@@ -44,7 +44,7 @@ func main() {
 
 }
 
-// Get single inputs, loop until input are all valid, return int
+// Get single input, loop until input are all valid, return int
 func getInput(input int, min int, max int, msg string) (int){
 
 	i := 0
